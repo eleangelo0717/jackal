@@ -1,0 +1,34 @@
+
+/*div{
+    display: flex;
+    justify-content:center;
+}*/
+ 
+*{margin: 0;
+padding: 0;}
+.i{  
+width:99px;
+    height: 99x;
+}
+.Korabl  {display: flex;
+    justify-content:center;}
+.ryd_1,.ryd_11
+ {display: flex;
+justify-content:center;
+padding-left: 315px;
+padding-right: 315px
+}
+
+.ryd_2,.ryd_3,.ryd_4,
+.ryd_5,.ryd_7,.ryd_8,
+.ryd_9,.ryd_10 
+{display: flex;
+justify-content:center;
+padding-left: 166px;
+padding-right: 166px
+}
+.ryd_6{display: flex;
+justify-content:center;
+padding-left: 116px;
+padding-right:116px
+}
